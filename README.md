@@ -32,3 +32,6 @@ https://github.com/rodi01/RenameIt
 
 Library Symbol Replacer: 
 https://github.com/zeroheight/library-symbol-replacer
+
+Paddy:
+https://github.com/DWilliames/paddy-sketch-plugin
